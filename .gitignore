@@ -1,2 +1,5 @@
 # Ignore MacOS junk
 .DS*
+
+# Ignore specific R files
+*.Rdata
