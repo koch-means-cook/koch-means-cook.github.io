@@ -1,5 +1,16 @@
+
 # Ignore MacOS junk
 .DS*
 
 # Ignore specific R files
 *.Rdata
+
+# IDEs
+.idea/
+
+# Hugo
+/resources/
+public/
+jsconfig.json
+node_modules/
+
