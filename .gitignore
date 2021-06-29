@@ -1,6 +1,5 @@
 # Ignore MacOS junk
 .DS*
-*_Store
 
 # Ignore specific R files
 *.Rdata
